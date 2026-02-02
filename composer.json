@@ -2,6 +2,7 @@
     "name": "becklyn/doctrine-orm-bridge",
     "type": "library",
     "description": "Doctrine ORM bridge for using command and event buses",
+    "version": "1.0.0",
     "keywords": [
         "Doctrine",
         "event bus",
