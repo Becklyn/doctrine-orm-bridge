@@ -30,13 +30,9 @@
         "doctrine/orm": "^3.0",
         "simple-bus/message-bus": "^6.0"
     },
-    "conflict": {
-        "doctrine/dbal": "<2.13.3",
-        "doctrine/persistence": "<2.2.2"
-    },
     "require-dev": {
         "ergebnis/composer-normalize": "^2.11",
-        "phpunit/phpunit": "^9.5.5",
+        "phpunit/phpunit": "^12",
         "pimple/pimple": "^3.5",
         "symfony/cache": "^6.4 || ^7.4",
         "symfony/phpunit-bridge": "^6.4 || ^7.4"
